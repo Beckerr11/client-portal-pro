@@ -8,7 +8,7 @@ import pino from "pino";
 import { z } from "zod";
 
 const projectProfile = {
-  "brand": "DouglasDev",
+  "brand": "Becker",
   "name": "Client Portal Pro",
   "slug": "client-portal-pro",
   "tagline": "Portal operacional para acompanhamento transparente de projetos.",
@@ -56,7 +56,7 @@ const projectProfile = {
     }
   ]
 } as const;
-const platformBrand = "DouglasDev";
+const platformBrand = "Becker";
 
 type WorkItemStatus = "open" | "done";
 type Priority = "high" | "medium" | "low";
