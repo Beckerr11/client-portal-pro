@@ -5,7 +5,7 @@
 Portal full stack para organizar demandas de clientes com **React no frontend e Node.js/Express no backend**, incluindo validação, filtros, exportação CSV, testes e pipeline de CI.
 
 **Demo pública:** https://client-portal-pro-sigma.vercel.app  
-**Portfólio:** https://douglasdev.tech
+**Portfólio:** https://github.com/Beckerr11
 
 > A demo pública na Vercel apresenta a experiência de frontend. O fluxo full stack completo é reproduzível localmente com o backend deste repositório.
 
@@ -104,5 +104,5 @@ Este projeto não apresenta autenticação, banco externo, filas ou infraestrutu
 
 ## Autor
 
-**Douglas Silva**  
-[GitHub](https://github.com/Beckerr11) · [Portfólio](https://douglasdev.tech) · [LinkedIn](https://www.linkedin.com/in/douglassilva11)
+**Becker**  
+[GitHub](https://github.com/Beckerr11) · [Portfólio](https://github.com/Beckerr11) · [LinkedIn](https://github.com/Beckerr11)
